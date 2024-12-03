@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "76ZvI2in6XZiGQX8rxRTOTfSZqSjCiK9RUDSoqFaW9A=",
+  "Source": "DapperPostgresExample",
+  "BasePath": "_content/DapperPostgresExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
